@@ -33,8 +33,10 @@ As a PCB designer you need to know the following:
 
 ### PCB design process:
 
-<div style="text-align: center;">
-  <img src="https://www.tronicszone.com/tronicszone/wp-content/uploads/2020/02/PCB-Manufacturing-Steps.png" alt="PCB Design Process" width="600" />
+<div align="center">
+  <img src="https://www.tronicszone.com/tronicszone/wp-content/uploads/2020/02/PCB-Manufacturing-Steps.png" 
+    alt="PCB Design Process" 
+    width="600" />
   <p><em>Figure 2: PCB Design Process<sup><a href="#footnote-2">2</b></sup></em></p>
 </div>
 
