@@ -37,6 +37,6 @@ As a PCB designer you need to know the following:
 </div>
 
 ### References:
-<a id="footnote-1"></a>**Footnote 1**: Image source: [Tech Explorations](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)
-<b id="footnote-2"></a>**Footnote 2**: Image source: [TronicsZone](https://www.tronicszone.com/tronicszone/wp-content/uploads/2020/02/PCB-Manufacturing-Steps.png)
+* <a id="footnote-1"></a>**Footnote 1**: Image source: [Tech Explorations](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)
+* <b id="footnote-2"></a>**Footnote 2**: Image source: [TronicsZone](https://www.tronicszone.com/tronicszone/wp-content/uploads/2020/02/PCB-Manufacturing-Steps.png)
 
