@@ -12,6 +12,7 @@ Beginner friendly projects, to practice KiCad and design PCBs using KiCad
 
 
 #### The following are the KiCad design workflow in order:
+![markdownmonstericon.png](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)
 
 <img src="[markdownmonstericon.png](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)"
      alt="Markdown Monster icon"
