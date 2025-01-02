@@ -1,7 +1,10 @@
 
 # KiCad_Projects
 Beginner friendly projects, to practice KiCad and design PCBs using KiCad
+### Introduction: 
+This Repo is made for beginner friendly KiCad design for training purposes. This acts as a portfolio for the trainings and projets I have worked for designing PCBs.
 
+### Description: 
 #### The following are the GENERAL steps for designing PCB in order
 
 1. Define design rules and requirement
@@ -13,5 +16,13 @@ Beginner friendly projects, to practice KiCad and design PCBs using KiCad
 
 
 #### The following are the KiCad design workflow in order:
-![KiCad Design Workflow.png](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)
+<figure>
+  <img src="https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg" alt="KiCad Design Workflow" width="600" />
+  <figcaption>Figure 1: KiCad Design Workflow<sup>[1]</sup></figcaption>
+</figure>
 
+
+
+
+### References:
+<a id="footnote-1"></a>**Footnote 1**: Image source: [Tech Explorations](https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg)
