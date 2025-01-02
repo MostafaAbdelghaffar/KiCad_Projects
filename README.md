@@ -25,9 +25,15 @@ As a PCB designer you need to know the following:
 
 #### The following are the KiCad design workflow in order:
 <div style="text-align: center;">
-  <img src="https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg" alt="KiCad Design Workflow" width="600" />
-  <p><em>Figure 1: KiCad Design Workflow<sup><a href="#footnote-1">1</a></sup></em></p>
+  <img src="https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg" 
+       alt="KiCad Design Workflow" 
+       width="600" 
+       style="display: block; margin: 0 auto;" />
+  <p style="text-align: center; margin-top: 10px;">
+    <em>Figure 1: KiCad Design Workflow<sup><a href="#footnote-1">1</a></sup></em>
+  </p>
 </div>
+
 
 ### PCB design process:
 
