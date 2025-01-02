@@ -16,10 +16,10 @@ This Repo is made for beginner friendly KiCad design for training purposes. This
 
 
 #### The following are the KiCad design workflow in order:
-<figure>
+<div style="text-align: center;">
   <img src="https://techexplorations.com/wp-content/uploads/2019/05/S1_KicadDesignProcess-1024x619.jpg" alt="KiCad Design Workflow" width="600" />
-  <figcaption>Figure 1: KiCad Design Workflow<sup>[1]</sup></figcaption>
-</figure>
+  <p><em>Figure 1: KiCad Design Workflow<sup><a href="#footnote-1">1</a></sup></em></p>
+</div>
 
 
 
