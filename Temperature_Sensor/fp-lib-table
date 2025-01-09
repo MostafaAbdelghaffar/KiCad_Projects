@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "L7805_stuff")(type "KiCad")(uri "${KIPRJMOD}/3D Models/L7805/L7805_stuff.pretty")(options "")(descr ""))
+)
