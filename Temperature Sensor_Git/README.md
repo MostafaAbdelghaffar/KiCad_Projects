@@ -34,14 +34,23 @@ As a PCB designer you need to know the following:
     width="600" />
   <p><em>Figure 2: PCB Design Process<sup><a href="#footnote-2">2</b></sup></em></p>
 </div>
+    
+
 
 ### Results
-
 <div align="center">
-  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/Schematic%20Capture.png 
+  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/Block%20Diagram.png" 
+    alt="PCB Design Process" 
+    width="600" />
+  <p><em>Figure 3:Block Diagram<sup><a href="#footnote-2">2</b></sup></em></p>
+</div>
+
+    
+<div align="center">
+  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/Schematic%20Capture.png"
     alt="Schematic Capture" 
     width="600" />
-  <p><em>Figure 3: Schematic Capture</em></p>
+  <p><em>Figure 4: Schematic Capture</em></p>
 </div>
 
 
@@ -49,7 +58,7 @@ As a PCB designer you need to know the following:
   <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/PCB%20LAYOUT.png" 
     alt="PCB Design" 
     width="600" />
-  <p><em>Figure 4: PCB Design</em></p>
+  <p><em>Figure 5: PCB Design</em></p>
 </div>
 
 
