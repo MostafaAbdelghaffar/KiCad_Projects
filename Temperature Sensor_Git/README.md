@@ -38,7 +38,7 @@ As a PCB designer you need to know the following:
 ### Results
 
 <div align="center">
-  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature Sensor_Git/Schematic.png" 
+  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/Schematic%20Capture.png 
     alt="Schematic Capture" 
     width="600" />
   <p><em>Figure 3: Schematic Capture</em></p>
@@ -46,7 +46,7 @@ As a PCB designer you need to know the following:
 
 
 <div align="center">
-  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature Sensor_Git/PCB%20Editor.png" 
+  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/Temperature%20Sensor_Git/PCB%20LAYOUT.png" 
     alt="PCB Design" 
     width="600" />
   <p><em>Figure 4: PCB Design</em></p>
