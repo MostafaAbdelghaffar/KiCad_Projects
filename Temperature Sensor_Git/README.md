@@ -1,9 +1,4 @@
-
-# KiCad_Projects
-Beginner friendly projects, to practice KiCad and design PCBs using KiCad
-### Introduction: 
-This Repo is made for beginner friendly KiCad design for training purposes. This acts as a portfolio for the trainings and projets I have worked for designing PCBs.
-
+#### Reminder
 As a PCB designer you need to know the following:
 1. Know the capabilities of your PCB manufacturer
 2. Have a solid understanding of the PCB design process
