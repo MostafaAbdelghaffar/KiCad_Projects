@@ -61,7 +61,7 @@ As a PCB designer you need to know the following:
 
 
 <div align="center">
-  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/StopLight_Git/CB%203D%20View.png" 
+  <img src="https://github.com/MostafaAbdelghaffar/KiCad_Projects/blob/main/StopLight_Git/PCB%203D%20View.png" 
     alt="PCB 3D View" 
     width="600" />
   <p><em>Figure 5: PCB 3D View</em></p>
